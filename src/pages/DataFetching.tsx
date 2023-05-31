@@ -2,7 +2,7 @@ import React from 'react'
 
 const DataFetching = () => {
   return (
-    <div>DataFetching</div>
+    <div >DataFetching</div>
   )
 }
 
